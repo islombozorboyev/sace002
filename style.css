@@ -1,0 +1,51 @@
+body{
+    background-color: brown;
+}
+
+.title{
+    background-color: aqua;
+    text-align: center;
+    color: white;    
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.box{
+    background-color: antiquewhite;
+    
+}
+
+.card{
+    width: 300px;
+    height: 300px;
+    border: solid 1px black;
+    text-align: center;
+    background-color: white;
+    margin-top: 17px;
+}
+
+.card i{
+ font-size: 90px;
+}
+
+.card p{
+    font-size: 14px;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-bottom: 12px;
+}
+
+.card button{
+    background-color: black;
+    color: white;
+    border-radius: 9px;
+    width: 120px;
+    height: 19px;
+    margin-top: 20px;
+}
+
+.readmore{
+    font-size: 10px;
+    height: 19px;
+}
